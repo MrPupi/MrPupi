@@ -1,5 +1,5 @@
 <p>
- <a href="#"><img src="https://avatars.mds.yandex.net/get-images-cbir/3048479/0dGvfd9CMZepgfvSZRokLA564/ocr" alt="MrPupi"><a>
+ <a href="#"><img src="https://i.gifer.com/BBgA.gif" alt="MrPupi"><a>
 </p>
 
 <h1>Hello, I'm Mr.Pupi</h1>
